@@ -20,6 +20,6 @@ class Rafflesiait extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('v_rafflesiait');
+		$this->load->view('welcome_massage');
 	}
 }
